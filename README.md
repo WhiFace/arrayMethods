@@ -1,9 +1,12 @@
-this project implements the most commonly used high order array methods.
-forEach()
-map()
-sort()
-filter()
-reduce()
+## DOM Array Methods
 
-I also use an api to generate random user using async await. 
- feel free to use the code. 
+Project to teach high order array methods and DOM manipulation
+
+## Project Specifications
+
+- Fetch random users from the [randomuser.me](https://randomuser.me) API
+- Use forEach() to loop and output user/wealth
+- Use map() to double wealth
+- Use filter() to filter only millionaires
+- Use sort() to sort by wealth
+- Use reduce() to add all wealth
